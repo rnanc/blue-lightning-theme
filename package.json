@@ -1,0 +1,21 @@
+{
+    "name": "blue-lightning",
+    "displayName": "Blue Lightning",
+    "description": "Minimalist dark theme with neon blue details, made for better comfort while coding",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blue Lightning",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blue Lightning-color-theme.json"
+            }
+        ]
+    }
+}
