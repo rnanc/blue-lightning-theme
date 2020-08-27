@@ -1,14 +1,19 @@
 {
     "name": "blue-lightning",
     "displayName": "Blue Lightning",
-    "description": "Minimalist dark theme with neon blue details, made for better comfort while coding",
-    "version": "0.0.1",
+    "description": "Minimalist dark theme with light details focusing on comfort while coding, using the color Eigengrau as main color for this theme.",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.48.0"
     },
+    "keywords": ["dark","theme","color-theme"],
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rnanc/blue-lightning-theme"
+    },
     "contributes": {
         "themes": [
             {

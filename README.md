@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "blue-lightning"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Blue Lightning
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A minimalist dark theme with light blue details focusing on comfort while coding, using the color `Eigengrau` as main color for this theme.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+ - Eigengrau is the color known as dark light, or brain gray, is the uniform dark gray background that many people report seeing in the absence of light.
 
-**Enjoy!**
+Color for the text is inspired in [Dracula](https://github.com/dracula) and [Dracula-text-only](https://github.com/LucasSonego/dracula-text-only) colors.
+
+<center><img src="demo.gif" width="900" height="500"></center>
