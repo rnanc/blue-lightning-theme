@@ -456,13 +456,11 @@
       ],
       "settings": {
         "foreground": "#BD93F9",
-        "fontStyle": "regular"
       }
     },
     {
       "scope": ["support.function", "support.type.property-name"],
       "settings": {
-        "fontStyle": "regular"
       }
     },
     {
@@ -570,7 +568,6 @@
       ],
       "settings": {
         "foreground": "#FF79C6",
-        "fontStyle": "regular"
       }
     },
     {
@@ -735,7 +732,6 @@
       ],
       "settings": {
         "foreground": "#F8F8F2",
-        "fontStyle": "normal"
       }
     },
     {
@@ -786,7 +782,6 @@
       "scope": ["support.constant"],
       "settings": {
         "foreground": "#BD93F9",
-        "fontStyle": "normal"
       }
     },
     {
