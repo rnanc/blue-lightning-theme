@@ -1,4 +1,4 @@
-# Blue Lightning
+# Blue Lightning <img src="raio%20final.png" width="70"> 
 
 A minimalist dark theme with light blue details focusing on comfort while coding, using the color `Eigengrau` as main color for this theme.
 
