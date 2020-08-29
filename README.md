@@ -1,4 +1,4 @@
-<center><img src="logo-BL.gif" max-width="100%;" width="800" height="250"></center>
+<center><img src="https://github.com/rnanc/blue-lightning-theme/blob/master/logo.gif" max-width="100%;" width="600" height="187"></center>
 
 A minimalist dark theme with light blue details focusing on comfort while coding, using the color `Eigengrau` as main color for this theme.
 
@@ -6,4 +6,4 @@ A minimalist dark theme with light blue details focusing on comfort while coding
 
 Color for the text is inspired in [Dracula](https://github.com/dracula) and [Dracula-text-only](https://github.com/LucasSonego/dracula-text-only) colors.
 
-<center><img src="demo.gif" width="900" height="500"></center>
+<center><img src="https://github.com/rnanc/blue-lightning-theme/blob/master/demo.gif" width="900" height="500"></center>
