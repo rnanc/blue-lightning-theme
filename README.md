@@ -1,4 +1,4 @@
-<center><img src="https://github.com/rnanc/blue-lightning-theme/blob/master/logo.gif" max-width="100%;" width="600" height="187"></center>
+<center><img src="https://github.com/rnanc/blue-lightning-theme/blob/master/logo-header.gif" max-width="100%;" ></center>
 
 A minimalist dark theme with light blue details focusing on comfort while coding, using the color `Eigengrau` as main color for this theme.
 
