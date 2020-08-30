@@ -1,6 +1,6 @@
 {
-    "name": "blue-lightning",
-    "displayName": "Blue Lightning",
+    "name": "blue-lightning-theme",
+    "displayName": "Blue Lightning Theme",
     "description": "Minimalist dark theme with light details focusing on comfort while coding, using the color Eigengrau as main color for this theme.",
     "version": "1.0.0",
     "engines": {
@@ -14,12 +14,13 @@
         "type": "git",
         "url": "https://github.com/rnanc/blue-lightning-theme"
     },
+    "icon": "blue-lightning-logo.png",
     "contributes": {
         "themes": [
             {
-                "label": "Blue Lightning",
+                "label": "Blue Lightning Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Blue Lightning-color-theme.json"
+                "path": "./themes/Blue-Lightning-color-theme.json"
             }
         ]
     }
