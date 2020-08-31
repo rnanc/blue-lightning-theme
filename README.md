@@ -1,5 +1,7 @@
 <center><img src="https://raw.githubusercontent.com/rnanc/blue-lightning-theme/master/logo-header.gif" max-width="100%;" ></center>
 
+![vscode](https://img.shields.io/visual-studio-marketplace/v/renan-carneiro.blue-lightning-theme) ![license](https://img.shields.io/github/license/rnanc/blue-lightning-theme)
+
 A minimalist dark theme for [VsCode](https://github.com/microsoft/vscode) with light blue details focusing on comfort while coding, using the color `Eigengrau` as main color for this theme.
 
  - Eigengrau is the color known as dark light, or brain gray, is the uniform dark gray background that many people report seeing in the absence of light.

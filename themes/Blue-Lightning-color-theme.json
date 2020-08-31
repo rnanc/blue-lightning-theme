@@ -12,7 +12,8 @@
 	"editorLineNumber.activeForeground": "#00efff",
 	"editorGutter.background": "#16161D",
 	"editorWidget.background": "#16161D",
-	"editorGroupHeader.tabsBackground": "#16161D",
+  "editorGroupHeader.tabsBackground": "#16161D",
+  "editorHoverWidget.statusBarBackground": "#16161D",
 	
 	// Activity
 	"activityBarBadge.background": "#ff2f2f",
@@ -35,6 +36,13 @@
 	"statusBar.debuggingBackground": "#ff2f2f",
   "statusBar.debuggingForeground": "#fff",
   "statusBar.noFolderBackground":"#16161D",
+  "statusBar.foreground": "#fff",
+  "statusBarItem.remoteBackground": "#16161D",
+  "statusBarItem.remoteForeground": "#fff",
+
+  // Notification
+  "notifications.background": "#16161D",
+  "notifications.foreground": "#fff",
 	
 	// Tab
 	"tab.activeBackground": "#101010",
