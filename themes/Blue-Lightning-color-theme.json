@@ -33,7 +33,8 @@
 	// Status
 	"statusBar.background": "#16161D",
 	"statusBar.debuggingBackground": "#ff2f2f",
-	"statusBar.debuggingForeground": "#fff",
+  "statusBar.debuggingForeground": "#fff",
+  "statusBar.noFolderBackground":"#16161D",
 	
 	// Tab
 	"tab.activeBackground": "#101010",
