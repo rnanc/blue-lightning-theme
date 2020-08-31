@@ -33,12 +33,15 @@
 	
 	// Status
 	"statusBar.background": "#16161D",
+  "statusBar.foreground": "#fff",
 	"statusBar.debuggingBackground": "#ff2f2f",
   "statusBar.debuggingForeground": "#fff",
-  "statusBar.noFolderBackground":"#16161D",
-  "statusBar.foreground": "#fff",
+  "statusBar.noFolderForeground": "#fff",
+  "statusBar.noFolderBackground": "#16161D",
   "statusBarItem.remoteBackground": "#16161D",
   "statusBarItem.remoteForeground": "#fff",
+  "statusBarItem.prominentBackground": "#16161D",
+  "statusBarItem.prominentForeground": "#fff",
 
   // Notification
   "notifications.background": "#16161D",
@@ -62,10 +65,13 @@
 	"sideBarTitle.foreground": "#F8F8F2",
 	"sideBar.background": "#16161D",
 	"sideBarSectionHeader.background": "#131316",
-	"sideBarSectionHeader.foreground": "#fff", 
+  "sideBarSectionHeader.foreground": "#fff", 
+  
+  // Welcome
+  "welcomePage.background": "#16161D",
 		
 	// Window
-	"window.activeBorder":"#16161D",
+  "window.activeBorder":"#16161D",
 	
 	// Terminal
 	"terminal.background": "#16161D",
