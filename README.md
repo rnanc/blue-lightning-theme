@@ -1,4 +1,4 @@
-<center><img src="https://github.com/rnanc/blue-lightning-theme/blob/master/logo-header.gif" max-width="100%;" ></center>
+<center><img src="https://raw.githubusercontent.com/rnanc/blue-lightning-theme/master/logo-header.gif" max-width="100%;" ></center>
 
 A minimalist dark theme for [VsCode](https://github.com/microsoft/vscode) with light blue details focusing on comfort while coding, using the color `Eigengrau` as main color for this theme.
 
@@ -6,4 +6,4 @@ A minimalist dark theme for [VsCode](https://github.com/microsoft/vscode) with l
 
 Color for the text is inspired in [Dracula](https://github.com/dracula) and [Dracula-text-only](https://github.com/LucasSonego/dracula-text-only) colors.
 
-<center><img src="https://github.com/rnanc/blue-lightning-theme/blob/master/demo.gif" width="900" height="500"></center>
+<center><img src="https://raw.githubusercontent.com/rnanc/blue-lightning-theme/master/demo.gif" width="900" height="500"></center>
