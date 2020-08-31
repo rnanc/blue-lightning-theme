@@ -1,6 +1,7 @@
 {
     "name": "blue-lightning-theme",
     "displayName": "Blue Lightning Theme",
+    "publisher": "Renan Carneiro",
     "description": "Minimalist dark theme with light details focusing on comfort while coding, using the color Eigengrau as main color for this theme.",
     "version": "1.0.0",
     "engines": {
