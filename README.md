@@ -13,3 +13,7 @@ Color for the text is inspired in [Dracula](https://github.com/dracula) and [Dra
 ## Install
 
 To install access the [link](https://marketplace.visualstudio.com/items?itemName=renan-carneiro.blue-lightning-theme) or search for `Blue Lightning Theme` on the extension marketplace inside VsCode.
+
+## Collaborators
+
+Arts for icon and header: laisnunes01@gmail.com
