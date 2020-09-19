@@ -1,6 +1,6 @@
 <center><img src="https://raw.githubusercontent.com/rnanc/blue-lightning-theme/master/logo-header.gif" max-width="100%;" ></center>
 
-![vscode](https://img.shields.io/visual-studio-marketplace/v/renan-carneiro.blue-lightning-theme?logo=Visual%20Studio%20Code) ![license](https://img.shields.io/github/license/rnanc/blue-lightning-theme) ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/renan-carneiro.blue-lightning-theme)
+![vscode](https://img.shields.io/visual-studio-marketplace/v/renan-carneiro.blue-lightning-theme?logo=Visual%20Studio%20Code) ![license](https://img.shields.io/github/license/rnanc/blue-lightning-theme) ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/renan-carneiro.blue-lightning-theme) ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/renan-carneiro.blue-lightning-theme)
 
 A minimalist dark theme for [VsCode](https://github.com/microsoft/vscode) with light blue details focusing on comfort while coding, using the color `Eigengrau` as main color for this theme.
 
